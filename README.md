@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayush1725
-- 👀 I’m interested in DSA,AI/ML
+- 👀 I’m interested in DSA,AWS,Linux
 - 🌱 I’m currently learning  web developement
 - 💞️ I’m looking to collaborate on projects related to frontend and backend
 - 📫 How to reach me ayushdwibedy123@gmail.com or
