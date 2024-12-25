@@ -2,8 +2,7 @@
 - 👀 I’m interested in DSA,AWS,Linux
 - 🌱 I’m currently learning  web developement
 - 💞️ I’m looking to collaborate on projects related to frontend and backend
-- 📫 How to reach me ayushdwibedy123@gmail.com or
-                     ayush.bcs220001@iiitsonepat.ac.in
+- 📫 How to reach me ayushdwibedy123@gmail.com 
 
 
 <!---
