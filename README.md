@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Information Technology** at the **Indian Institute of Information Technology, Sonepat**. I'm passionate about technology, problem-solving, and making a meaningful impact with my work.
 
 ## 🚀 About Me
-- 🌱 Always learning new technologies and techniques like **Linux shell scripting**, **full-stack development** ,**Data structure and Algorithms** and **cloud computing**.
+- 🌱 Always learning new technologies and techniques like **Linux shell scripting**, **full-stack development** ,**Data structures**,**Algorithms** and **cloud computing**.
 - 💬 Ask me about **full-stack development**, **DevOps**, **Linux**, **cloud technologies**.
 - 📈 Exploring ways to **optimize software development workflows** with **GitHub Actions** and **CI/CD pipelines**.
 
