@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Computer Science** at the **Indian Institute of Information Technology, Sonepat**. I’m passionate about building reliable systems, optimizing workflows, and exploring the exciting world of **DevOps** and **SRE (Site Reliability Engineering)**.
 
 ## 🚀 About Me
-- 🔭 Currently focused on mastering **DevOps** practices and **SRE principles** to enhance system reliability, scalability, and efficiency.
+- 🔭 Currently focused on **Data Structures and Algorithms** along with mastering on **DevOps** practices and **SRE principles** to enhance system reliability, scalability, and efficiency.
 - 🌱 Hands-on experience with **Linux shell scripting**, **CI/CD pipelines**, and automation using **GitHub Actions**.
 - 🧠 Continuously improving my understanding of **system monitoring**, **log management**, and **deployment workflows**.
 - 💬 Let’s discuss **DevOps workflows**, **cloud infrastructure**, **automation tools**, and **site reliability engineering concepts**.
