@@ -1,28 +1,45 @@
 # Hi there, I'm Ayush Dwibedy 👋
 
-Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Information Technology** at the **Indian Institute of Information Technology, Sonepat**. I'm passionate about technology, problem-solving, and making a meaningful impact with my work.
+Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Computer Science** at the **Indian Institute of Information Technology, Sonepat**. I’m passionate about building reliable systems, optimizing workflows, and exploring the exciting world of **DevOps** and **SRE (Site Reliability Engineering)**.
 
 ## 🚀 About Me
-- 🌱 Always learning new technologies and techniques like **Linux shell scripting**, **full-stack development** ,**Data structures**,**Algorithms** and **cloud computing**.
-- 💬 Ask me about **full-stack development**, **DevOps**, **Linux**, **cloud technologies**.
-- 📈 Exploring ways to **optimize software development workflows** with **GitHub Actions** and **CI/CD pipelines**.
-
+- 🔭 Currently focused on mastering **DevOps** practices and **SRE principles** to enhance system reliability, scalability, and efficiency.
+- 🌱 Hands-on experience with **Linux shell scripting**, **CI/CD pipelines**, and automation using **GitHub Actions**.
+- 🧠 Continuously improving my understanding of **system monitoring**, **log management**, and **deployment workflows**.
+- 💬 Let’s discuss **DevOps workflows**, **cloud infrastructure**, **automation tools**, and **site reliability engineering concepts**.
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages**: Python, JavaScript, C++, Java
-- **Web Development**: HTML, CSS, JavaScript, Node.js, React, Express.js
+- **DevOps Tools**: Docker, GitHub Actions
 - **Cloud Platforms**: AWS, Google Cloud
-- **DevOps & CI/CD**: GitHub Actions, Jenkins, Docker
+- **Web Development**: HTML, CSS, JavaScript, Node.js, React, Express.js
 - **Databases**: MySQL, MongoDB
-- **Operating Systems**: Linux, Windows
+- **Operating Systems**: Linux (Shell scripting), Windows
 - **Version Control**: Git, GitHub
+- **Monitoring Tools**: Basics of Prometheus and Grafana
+
+## 🎯 Current Goals
+- 📈 Building expertise in **CI/CD pipelines** to automate software deployment and testing processes.
+- 🔄 Learning advanced **system monitoring** and troubleshooting techniques for maintaining high availability.
+- 🧩 Strengthening my knowledge of **Linux scripting** for automation in DevOps workflows.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Ayush Dwibedy](https://www.linkedin.com/in/ayush-dwibedy/)
-- **Email**: [ayushdwibedy123@gmail.com](mailto:ayushdwibedy123@gmail.com)
 
-Feel free to reach out if you're interested in collaborating or discussing technology!
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ayush-dwibedy/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:ayushdwibedy123@gmail.com" target="_blank">
+        <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="35" height="35"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Happy Coding! ✨
+Happy Coding and Engineering! ✨
