@@ -23,6 +23,35 @@ Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Computer 
 - 🔄 Learning advanced **system monitoring** and troubleshooting techniques for maintaining high availability.
 - 🧩 Strengthening my knowledge of **Linux scripting** for automation in DevOps workflows.
 
+---
+
+## 🌍 Open Source Contributions
+- 📌 Contributing to DevOps, automation, and monitoring-focused projects
+- 🛠 Exploring infrastructure-as-code and SRE-aligned open-source ecosystems
+- 🤝 Always open for meaningful collaborations and PRs!
+
+Check out my [repositories](https://github.com/AyushDwibedy?tab=repositories) and feel free to contribute or collaborate!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush1725&show_icons=true&theme=react&hide_border=true" alt="Ayush's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush1725&theme=react&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 🏅 Badges & Achievements
+
+![AWS Certified](https://img.shields.io/badge/AWS%20Cloud-Foundation%20Certified-orange?style=flat&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Enthusiast-blue?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Shell%20Scripting-yellow?style=flat&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions%20User-4183c4?logo=githubactions)
+
+---
+
 ## 📫 How to Reach Me
 
 <table border="0">
