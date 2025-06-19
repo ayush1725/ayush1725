@@ -24,16 +24,6 @@ Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Computer 
 - 🧩 Strengthening my knowledge of **Linux scripting** for automation in DevOps workflows.
 
 ---
-
-## 🌍 Open Source Contributions
-- 📌 Contributing to DevOps, automation, and monitoring-focused projects
-- 🛠 Exploring infrastructure-as-code and SRE-aligned open-source ecosystems
-- 🤝 Always open for meaningful collaborations and PRs!
-
-Check out my [repositories](https://github.com/AyushDwibedy?tab=repositories) and feel free to contribute or collaborate!
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
