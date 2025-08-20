@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush Dwibedy 👋
 
-Welcome to my GitHub profile! I'm a **third-year B.Tech student** in **Computer Science** at the **Indian Institute of Information Technology, Sonepat**. I’m passionate about building reliable systems, optimizing workflows, and exploring the exciting world of **DevOps** and **SRE (Site Reliability Engineering)**.
+Welcome to my GitHub profile! I'm a **final-year B.Tech student** in **Computer Science** at the **Indian Institute of Information Technology, Sonepat**. I’m passionate about building reliable systems, optimizing workflows, and exploring the exciting world of **DevOps** and **SRE (Site Reliability Engineering)**.
 
 ## 🚀 About Me
 - 🔭 Currently focused on **Data Structures and Algorithms** along with mastering on **DevOps** practices and **SRE principles** to enhance system reliability, scalability, and efficiency.
